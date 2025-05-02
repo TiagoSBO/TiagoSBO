@@ -2,7 +2,6 @@
 <p>Passionate about technology since forever. Enthusiastic about creating solutions through codes.
   
 <p>🔭 I’m currently working on [Qt-pomodoro-timer](https://github.com/TiagoSBO/qt-pomodoro-timer/tree/main)</p>
-<p>🌱 I’m currently learning **Algorithms, data structures, C++ and Qt framework. (and Etc😂)**</p>
 
 <div>
 <a href = "mailto:tiagosilvabarretto@gmail.coom"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
