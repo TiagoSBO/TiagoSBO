@@ -6,8 +6,8 @@
 </div>
 
 
-🔭 I’m currently working on [Qt-pomodoro-timer](https://github.com/TiagoSBO/qt-pomodoro-timer/tree/main)
-🌱 I’m currently learning **Algorithms, data structures, C++ and Qt framework. (and Etc😂)**
+<p>🔭 I’m currently working on [Qt-pomodoro-timer](https://github.com/TiagoSBO/qt-pomodoro-timer/tree/main)</p>
+<p>🌱 I’m currently learning **Algorithms, data structures, C++ and Qt framework. (and Etc😂)**</p>
 
 
 <h3 align="left">Languages and Tools I'm Learning:</h3>
@@ -19,6 +19,6 @@
 
 <div>
 <a href="https://github.com/TiagoSBO">
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSBO&theme=tokyonight&layout=compact&langs_count=9&bg_color=0d1117&hide_border=true"/>
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=TiagoSBO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSBO&theme=tokyonight&layout=compact&langs_count=9&bg_color=0d1117&hide_border=true"/>
+<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=TiagoSBO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
