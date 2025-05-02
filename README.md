@@ -1,6 +1,5 @@
-<h2 align="left">Hello👋! Welcome. I'm Tiago Silva</h1>
-<h3 align="left">Passionate about technology since forever. Enthusiastic about creating solutions through codes.</h3>
-
+<h2 align="left">Tiago Silva</h1>
+Passionate about technology since forever. Enthusiastic about creating solutions through codes.
 
 - 🔭 I’m currently working on [Qt-pomodoro-timer](https://github.com/TiagoSBO/qt-pomodoro-timer/tree/main)
 - 🌱 I’m currently learning **Algorithms, data structures, C++ and Qt framework. (and Etc😂)**
