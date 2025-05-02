@@ -1,4 +1,4 @@
-<h2 align="left">Tiago Silva</h1>
+<h2 align="left">Hey👋, welcome, i'm Tiago Silva</h1>
 <p>Passionate about technology since forever. Enthusiastic about creating solutions through codes.
   
 <p>🔭 I’m currently working on [Qt-pomodoro-timer](https://github.com/TiagoSBO/qt-pomodoro-timer/tree/main)</p>
