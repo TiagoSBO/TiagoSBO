@@ -1,13 +1,13 @@
 <h2 align="left">Tiago Silva</h1>
-<p>Passionate about technology since forever. Enthusiastic about creating solutions through codes.</p>
+<p>Passionate about technology since forever. Enthusiastic about creating solutions through codes.
+  
+🔭 I’m currently working on [Qt-pomodoro-timer](https://github.com/TiagoSBO/qt-pomodoro-timer/tree/main)
+🌱 I’m currently learning **Algorithms, data structures, C++ and Qt framework. (and Etc😂)**</p>
+
 <div>
 <a href = "mailto:tiagosilvabarretto@gmail.coom"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tiagosilvabarreto/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-<p>🔭 I’m currently working on [Qt-pomodoro-timer](https://github.com/TiagoSBO/qt-pomodoro-timer/tree/main)</p>
-<p>🌱 I’m currently learning **Algorithms, data structures, C++ and Qt framework. (and Etc😂)**</p>
 
 
 <h3 align="left">Languages and Tools I'm Learning</h3>
@@ -18,7 +18,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools I'm Learning</h3>
+<h3 align="left">Stats</h3>
 <div>
 <a href="https://github.com/TiagoSBO">
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSBO&theme=tokyonight&layout=compact&langs_count=9&bg_color=0d1117&hide_border=true"/>
