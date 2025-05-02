@@ -3,8 +3,8 @@
 
 
 
-##🔭 I’m currently working on [Qt-pomodoro-timer](https://github.com/TiagoSBO/qt-pomodoro-timer/tree/main)
-##🌱 I’m currently learning **Algorithms, data structures, C++ and Qt framework. (and Etc😂)**
+🔭 I’m currently working on [Qt-pomodoro-timer](https://github.com/TiagoSBO/qt-pomodoro-timer/tree/main)
+🌱 I’m currently learning **Algorithms, data structures, C++ and Qt framework. (and Etc😂)**
 
 
 <h3 align="left">Languages and Tools I'm Learning:</h3>
