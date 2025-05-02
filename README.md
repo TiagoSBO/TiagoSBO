@@ -15,8 +15,8 @@
 
 <div>
 <a href="https://github.com/TiagoSBO">
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSBO&layout=compact"/>
-<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=TiagoSBO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSBO&theme=tokyonight&layout=compact&langs_count=9&bg_color=0d1117&hide_border=true"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=TiagoSBO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <h3 align="left">My contacts:</h3>
