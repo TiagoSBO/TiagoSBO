@@ -10,13 +10,15 @@
 <p>🌱 I’m currently learning **Algorithms, data structures, C++ and Qt framework. (and Etc😂)**</p>
 
 
-<h3 align="left">Languages and Tools I'm Learning:</h3>
+<h3 align="left">Languages and Tools I'm Learning</h3>
 <p align="left">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
+
+<h3 align="left">Languages and Tools I'm Learning</h3>
 <div>
 <a href="https://github.com/TiagoSBO">
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSBO&theme=tokyonight&layout=compact&langs_count=9&bg_color=0d1117&hide_border=true"/>
